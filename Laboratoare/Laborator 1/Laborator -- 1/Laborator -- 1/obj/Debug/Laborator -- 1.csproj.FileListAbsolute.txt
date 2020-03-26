@@ -1,0 +1,7 @@
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\bin\Debug\Laborator -- 1.exe.config
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\bin\Debug\Laborator -- 1.exe
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\bin\Debug\Laborator -- 1.pdb
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\obj\Debug\Laborator -- 1.csprojAssemblyReference.cache
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\obj\Debug\Laborator -- 1.csproj.CoreCompileInputs.cache
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\obj\Debug\Laborator -- 1.exe
+D:\Facultate\An 2 sem 2\Sisteme de gestiune a bazelor de date\Laboratoare\Laborator -- 1\Laborator -- 1\obj\Debug\Laborator -- 1.pdb
