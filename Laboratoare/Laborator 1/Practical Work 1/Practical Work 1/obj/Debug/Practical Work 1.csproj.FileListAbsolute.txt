@@ -21,3 +21,16 @@ D:\Facultate\An 2 sem 2\Systems-for-Design-and-Implementation\Systems-for-Design
 D:\Facultate\An 2 sem 2\Systems-for-Design-and-Implementation\Systems-for-Design-and-Implementation\Laboratoare\Practical Work 1\Practical Work 1\bin\Debug\NLog.dll
 D:\Facultate\An 2 sem 2\Systems-for-Design-and-Implementation\Systems-for-Design-and-Implementation\Laboratoare\Practical Work 1\Practical Work 1\bin\Debug\NLog.xml
 D:\Facultate\An 2 sem 2\Systems-for-Design-and-Implementation\Systems-for-Design-and-Implementation\Laboratoare\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.csproj.CopyComplete
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\bin\Debug\Practical Work 1.exe.config
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\bin\Debug\Practical Work 1.exe
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\bin\Debug\Practical Work 1.pdb
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\bin\Debug\NLog.dll
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\bin\Debug\NLog.xml
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.csprojAssemblyReference.cache
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical_Work_1.Form1.resources
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical_Work_1.Properties.Resources.resources
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.csproj.GenerateResource.cache
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.csproj.CoreCompileInputs.cache
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.csproj.CopyComplete
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.exe
+D:\Facultate\An 2 sem 2\SGBD\SGBD\Laboratoare\Laborator 1\Practical Work 1\Practical Work 1\obj\Debug\Practical Work 1.pdb
